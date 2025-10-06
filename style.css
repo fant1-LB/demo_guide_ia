@@ -7,7 +7,7 @@ body{ background-color:  rgb(61, 53, 53);max-width: 100% ;color:white;}
 .side{display: flex; align-items:flex-start ;flex-direction: column; background-color:  rgb(61, 53, 53);
        border: groove 5px black;max-width: 25%; margin : 2% ;box-shadow: 5px 5px 5px black; border-radius: 15px ; color:white; color:white}
 a{color:red; text-align: justify;}
-p{text-align: justify;}
+p{margin: 2%; text-align: justify;}
 .flex{display:flex;
      flex-direction: row;
      align-items: flex-start;
